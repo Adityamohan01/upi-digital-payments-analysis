@@ -20,7 +20,7 @@ Three findings that stood out:
 
 ## Dashboard
 
-🔗 [View Live Dashboard on Tableau Public]([YOUR_TABLEAU_PUBLIC_LINK_HERE](https://public.tableau.com/views/UPIDigitalPaymentsAnalysisIndia2022-2025/UPIIndiaDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+🔗 [View Live Dashboard on Tableau Public]((https://public.tableau.com/views/UPIDigitalPaymentsAnalysisIndia2022-2025/UPIIndiaDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 ---
 
