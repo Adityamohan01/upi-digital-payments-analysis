@@ -1,5 +1,5 @@
 # upi-digital-payments-analysis
-UPI &amp; Digital Payments Growth Analysis using SQL, Tableau and Excel — India 2022-2025
+
 # UPI & Digital Payments Analysis — India 2022–2025
 
 I built this project because I was curious about how UPI grew so fast in India. Everyone around me — from grocery shops to auto rickshaws — started accepting UPI payments, and I wanted to actually see the numbers behind that change.
